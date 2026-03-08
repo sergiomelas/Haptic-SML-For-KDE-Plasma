@@ -1,5 +1,5 @@
 ##################################################################
-#                        SML Haptic Theme                        #
+#                        SML MAGIC TOOLS                         #
 #          Developed for bash by Sergio Melas 2026               #
 #                                                                #
 #                  Email: sergiomelas@gmail.com                  #
