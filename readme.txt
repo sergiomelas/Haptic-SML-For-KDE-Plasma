@@ -1,5 +1,5 @@
 ##################################################################
-#                        SML MAGIC TOOLS                         #
+#                      HAPTIC KORE                               #
 #          Developed for bash by Sergio Melas 2026               #
 #                                                                #
 #                  Email: sergiomelas@gmail.com                  #
